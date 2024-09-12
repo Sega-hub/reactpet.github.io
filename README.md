@@ -1,3 +1,3 @@
-1 npm i
+1 npm i /n
 2 npm start
 
